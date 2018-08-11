@@ -1,6 +1,6 @@
 <?php
 
-namespace Nick\Modules\Console;
+namespace Touge\Modules\Console;
 
 use Illuminate\Console\GeneratorCommand as LaravelGeneratorCommand;
 use Illuminate\Support\Str;

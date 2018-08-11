@@ -1,9 +1,9 @@
 <?php
 
-namespace Nick\Modules;
+namespace Touge\Modules;
 
 use Caffeinated\Modules\Support\ServiceProvider;
-use Nick\Modules\Providers\GeneratorServiceProvider;
+use Touge\Modules\Providers\GeneratorServiceProvider;
 
 class ModuleServiceProvider extends ServiceProvider
 {

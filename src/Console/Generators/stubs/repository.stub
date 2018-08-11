@@ -2,7 +2,7 @@
 
 namespace DummyNamespace;
 
-use Nick\Modules\Support\BaseRepository;
+use Touge\Modules\Support\BaseRepository;
 
 class DummyClass extends BaseRepository
 {

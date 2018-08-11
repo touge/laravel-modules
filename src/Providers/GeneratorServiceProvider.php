@@ -1,12 +1,12 @@
 <?php
 
-namespace Nick\Modules\Providers;
+namespace Touge\Modules\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Nick\Modules\Console\Generators\MakeListenersCommand;
-use Nick\Modules\Console\Generators\MakeRepositoryCommand;
-use Nick\Modules\Console\Generators\MakeJobCommand;
-use Nick\Modules\Console\Generators\MakeEventCommand;
+use Touge\Modules\Console\Generators\MakeListenersCommand;
+use Touge\Modules\Console\Generators\MakeRepositoryCommand;
+use Touge\Modules\Console\Generators\MakeJobCommand;
+use Touge\Modules\Console\Generators\MakeEventCommand;
 
 class GeneratorServiceProvider extends ServiceProvider
 {

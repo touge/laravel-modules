@@ -1,5 +1,5 @@
 {
-    "name": "nick/modules",
+    "name": "touge/modules",
     "authors": [
         {
             "name": "Nick Yuan",
@@ -12,13 +12,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Nick\\Modules\\": "src/"
+            "Touge\\Modules\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nick\\Modules\\ModulesServiceProvider"
+                "Touge\\Modules\\ModulesServiceProvider"
             ]
         }
     }

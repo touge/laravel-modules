@@ -1,6 +1,6 @@
 <?php
 
-namespace Nick\Modules\Support;
+namespace Touge\Modules\Support;
 
 use Prettus\Repository\Eloquent\BaseRepository as _BaseRepository;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Nick\Modules\Console\Generators;
+namespace Touge\Modules\Console\Generators;
 
-use Nick\Modules\Console\GeneratorCommand;
+use Touge\Modules\Console\GeneratorCommand;
 
 class MakeJobCommand extends GeneratorCommand
 {
