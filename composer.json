@@ -18,7 +18,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Touge\\Modules\\ModulesServiceProvider"
+                "Touge\\Modules\\ModuleServiceProvider"
             ]
         }
     }
