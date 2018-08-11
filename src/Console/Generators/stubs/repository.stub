@@ -1,0 +1,16 @@
+<?php
+
+namespace DummyNamespace;
+
+use Nick\Modules\Support\BaseRepository;
+
+class DummyClass extends BaseRepository
+{
+    /**
+     * @return string
+     */
+    public function model()
+    {
+        //return SomeModel::class;
+    }
+}
